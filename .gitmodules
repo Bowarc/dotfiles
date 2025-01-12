@@ -4,3 +4,6 @@
 [submodule "wezterm.cfg"]
 	path = wezterm.cfg
 	url = https://github.com/Bowarc/wezterm.cfg
+[submodule "helix.cfg"]
+	path = helix.cfg
+	url = https://github.com/Bowarc/helix.cfg
