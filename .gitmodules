@@ -1,3 +1,6 @@
 [submodule "fish.cfg"]
 	path = fish.cfg
 	url = https://github.com/Bowarc/fish.cfg
+[submodule "wezterm.cfg"]
+	path = wezterm.cfg
+	url = https://github.com/Bowarc/wezterm.cfg
