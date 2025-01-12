@@ -13,3 +13,6 @@
 [submodule "nvim.cfg"]
 	path = nvim.cfg
 	url = https://github.com/Bowarc/nvim.cfg
+[submodule "btop.cfg"]
+	path = btop.cfg
+	url = https://github.com/Bowarc/btop.cfg
