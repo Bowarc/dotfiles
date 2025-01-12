@@ -7,3 +7,6 @@
 [submodule "helix.cfg"]
 	path = helix.cfg
 	url = https://github.com/Bowarc/helix.cfg
+[submodule "lf.cfg"]
+	path = lf.cfg
+	url = https://github.com/Bowarc/lf.cfg
