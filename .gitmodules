@@ -10,3 +10,6 @@
 [submodule "lf.cfg"]
 	path = lf.cfg
 	url = https://github.com/Bowarc/lf.cfg
+[submodule "nvim.cfg"]
+	path = nvim.cfg
+	url = https://github.com/Bowarc/nvim.cfg
