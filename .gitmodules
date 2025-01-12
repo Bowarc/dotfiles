@@ -1,0 +1,3 @@
+[submodule "fish.cfg"]
+	path = fish.cfg
+	url = https://github.com/Bowarc/fish.cfg
