@@ -16,3 +16,6 @@
 [submodule "btop.cfg"]
 	path = btop.cfg
 	url = https://github.com/Bowarc/btop.cfg
+[submodule "mangohud.cfg"]
+	path = mangohud.cfg
+	url = https://github.com/Bowarc/mangohud.cfg
