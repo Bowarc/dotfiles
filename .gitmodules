@@ -19,3 +19,6 @@
 [submodule "mangohud.cfg"]
 	path = mangohud.cfg
 	url = https://github.com/Bowarc/mangohud.cfg
+[submodule "oh-my-posh.cfg"]
+	path = oh-my-posh.cfg
+	url = https://github.com/Bowarc/oh-my-posh.cfg
