@@ -25,3 +25,6 @@
 [submodule "foot.cfg"]
 	path = foot.cfg
 	url = https://github.com/bowarc/foot.cfg
+[submodule "cosmic.cfg"]
+	path = cosmic.cfg
+	url = https://github.com/bowarc/cosmic.cfg
