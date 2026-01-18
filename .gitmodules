@@ -22,3 +22,6 @@
 [submodule "oh-my-posh.cfg"]
 	path = oh-my-posh.cfg
 	url = https://github.com/Bowarc/oh-my-posh.cfg
+[submodule "foot.cfg"]
+	path = foot.cfg
+	url = https://github.com/bowarc/foot.cfg
